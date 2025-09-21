@@ -26,4 +26,10 @@ A simple React-based job portal that allows recruiters to add, update, and delet
 3. Run `npm start` to launch the app locally.
 
 ## Directory Structure
+src/
+components/
+context/
+App.js
+public/
+README.md
 
